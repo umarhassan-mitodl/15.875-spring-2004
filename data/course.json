@@ -1,0 +1,53 @@
+{
+  "term": "Spring",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Operations Management"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Optimization"
+    ]
+  ],
+  "legacy_uid": "50ed8823-0b5b-5001-feb1-fb732ded99ac",
+  "instructors": {
+    "content": [
+      "2191014f-05f3-1c49-4194-574e7af18235"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e76030b6-a2b7-4810-14b0-9c88ea400bd6",
+    "website": "15-875-applications-of-system-dynamics-spring-2004"
+  },
+  "course_title": "Applications of System Dynamics",
+  "course_description": "15.875 is a project-based course that explores how organizations can use system dynamics to achieve important goals. In small groups, students learn modeling and consulting skills by working on a term-long project with real-life managers. A diverse set of businesses and organizations sponsor class projects, from start-ups to the Fortune 500. The course focuses on gaining practical insight from the system dynamics process, and appeals to people interested in system dynamics, consulting, or managerial policy-making.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.875",
+  "course_image_thumbnail": {
+    "content": "ea009a55-84e4-83a9-a6d8-9e52ddd6ca96",
+    "website": "15-875-applications-of-system-dynamics-spring-2004"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects with Examples"
+  ],
+  "site_uid": "4a153ef5-a3af-4183-b9b4-a0179bb2386f",
+  "site_short_id": "15.875-spring-2004",
+  "site_url_path": "courses/15-875-applications-of-system-dynamics-spring-2004",
+  "title": "Course Metadata"
+}
