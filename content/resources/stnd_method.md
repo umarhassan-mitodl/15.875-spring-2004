@@ -4,6 +4,8 @@ description: Supplementary notes.
 file: /courses/15-875-applications-of-system-dynamics-spring-2004/27e71bdb46c79e8091158fc0fb3ebd8d_stnd_method.pdf
 file_size: 55292
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
