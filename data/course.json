@@ -43,7 +43,7 @@
     "content": "ea009a55-84e4-83a9-a6d8-9e52ddd6ca96",
     "website": "15-875-applications-of-system-dynamics-spring-2004"
   },
-  "hide_download_original": null,
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Projects with Examples"
