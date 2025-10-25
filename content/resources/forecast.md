@@ -5,8 +5,6 @@ description: Example of final student presentation. Presentation courtesy of Chr
 file: /courses/15-875-applications-of-system-dynamics-spring-2004/9b247e0adf0d36b68552a5310953386f_forecast.pdf
 file_size: 426790
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

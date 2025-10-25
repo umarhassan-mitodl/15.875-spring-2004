@@ -5,8 +5,6 @@ description: Example of final student presentation. Presentation courtesy of Ale
 file: /courses/15-875-applications-of-system-dynamics-spring-2004/62b0fe4b0437fe706de06ffc3fa1346d_nasa.pdf
 file_size: 215565
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
